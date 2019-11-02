@@ -1,10 +1,11 @@
-The articles included in this repository wer found in the following URL:
+The articles included in this repository were found in the following URL:
 
 https://www.reddit.com/r/streamentry/comments/99lh8i/community_shinzens_main_articles_in_ereaderkindle/
 
-Their original source is the following:
+Their original source is:
 
 https://cloud.lost-terminal.co.uk/index.php/s/9w9oPpr8zqpMdkM
+
 
 The downloadable zip comes with the following disclaimer:
 
