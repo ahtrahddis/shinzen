@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d913a59e-00c2-44e6-aa6d-ce05e7cb5688</dc:identifier>
+        <dc:title>An Outline of Practice</dc:title>
+        <dc:creator opf:file-as="Shinzen Young" opf:role="aut">Shinzen Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;This is an UNOFFICIAL reformatting of the original article found at:&lt;/font&gt;&lt;div style="font-family: 'Segoe UI', sans-serif; font-size: 13px;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;https://www.shinzen.org/resources/articles/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;And does not represent an official work. Content may be out of date or formatted incorrectly, and Shinzen Young is not responsible for any errors created in this process.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-family: 'Segoe UI', sans-serif; font-size: small;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-family: 'Segoe UI', sans-serif; font-size: small;"&gt;All content contained is Copyright Shinzen Young, All Rights Reserved. Original publication dates and copyright notices may be found at the link above.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Shinzen Young</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>buddhism</dc:subject>
+        <dc:subject>enlightenment</dc:subject>
+        <dc:subject>meditation</dc:subject>
+        <dc:subject>mindfulness</dc:subject>
+        <meta content="{&quot;Shinzen Young&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-23T22:05:38+00:00" name="calibre:timestamp"/>
+        <meta content="Outline of Practice, An" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Outline of Practice, An - Shinzen Young.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
