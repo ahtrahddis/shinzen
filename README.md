@@ -4,7 +4,7 @@ https://www.reddit.com/r/streamentry/comments/99lh8i/community_shinzens_main_art
 
 Their original source is:
 
-https://cloud.lost-terminal.co.uk/index.php/s/9w9oPpr8zqpMdkM
+https://drive.google.com/file/d/1vsUBsK2K8RSJluAjcQ6j42750TyZAmZg/view?usp=sharing
 
 
 The downloadable zip comes with the following disclaimer:
